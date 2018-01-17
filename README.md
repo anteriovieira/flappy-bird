@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anteriovieira/flappy-bird/master/static/img/preview.png" />
+</p>
+
 ## Build Setup
 
 ``` bash
